@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: include-file
-Plugin URI: http://tylerstafford.net
+Plugin URI: http://wordpress.org/extend/plugins/include-file/
 Description: Includes the contents of a file at a given url in a post.
 Author: Tyler Stafford <tyler.stafford@gmail.com>
 Author URI: http://tylerstafford.net
